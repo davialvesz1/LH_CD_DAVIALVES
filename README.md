@@ -1,4 +1,4 @@
-Projeto: Análise e Previsão de Preços de Apartamentos para Aluguel
+Projeto: Desafio 7 dias Cientista de Dados
 
 Descrição
 
@@ -13,3 +13,5 @@ Respostas às principais perguntas de negócio relacionadas à rentabilidade de 
 Um modelo preditivo para sugerir preços de apartamentos.
 
 Relatórios e códigos organizados para execução.
+
+Video explicativo - https://drive.google.com/file/d/13Y_s4WbfeP436tM0bfoV9IaV0ZfaAdqS/view?usp=drive_link
